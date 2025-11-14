@@ -86,7 +86,7 @@ export default router;
 ```
 
 Your app.tsx must look like this:
-````
+```
 import React from "react";
 import { RouterProvider } from "react-router-dom";
 import router from "./router";
